@@ -74,7 +74,7 @@ deploy:
 如果有自己的域名，而且想将域名映射过来，可以通过简单的2个步骤实现
 1. 在hexo生成博客的source目录下新建一个文件CNAME，文件内容为你自己的域名
 2. 在你的域名解析服务商处新增一个CNAME解析配置，将其指向你的`用户名.github.io`，如：
-![]({{BASE_PATH}}/images/dnsdop-config.png)
+![](/images/dnsdop-config.png)
 
 配置完成后等10分钟（跟github和你的域名解析服务商有关），你的域名就会被解析到github pages上去了。
 

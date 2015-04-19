@@ -6,6 +6,7 @@ tags:
 - clover
 categories: 
 - 瞎折腾
+toc: true
  
 ---
 
@@ -16,7 +17,7 @@ categories:
 <!-- more -->
 
 长这样：
-![]({{BASE_PATH}}/images/14e06ad3f2c166c2733f49b377f45c9a6873effb.jpg)
+![](/images/14e06ad3f2c166c2733f49b377f45c9a6873effb.jpg)
 
 不过mac系统用着还是挺爽的，竟然还能玩我大炉石，立马想去买个mba的节奏啊。
 
@@ -74,7 +75,7 @@ p.s. 我的安装主要参考的[这个帖子](http://bbs.pcbeta.com/viewthread-
 确定了系统安装的方式之后，首先需要确定下用哪个硬盘进行引导，然后进行分区。这里我用64的硬盘作为引导硬盘，因此需要在这硬盘上添加一个EFI的分区用来做引导，这里我申请了一个300m的EFI分区。
 > 分区的时候踩到了一个大坑，u盘里到winPE下到DiskGenius好像有问题，分的区一直有问题，在win8安装的时候各种报错，后来用了一个其他的分区工具重新分了一下才安装成功了。这个事情搞了一天，各种搜资料都没解决，抱着试试看都心态重新分了下就好了。所以如果遇到安不上都问题可以试试**重新分区**。
 
-![图片]({{BASE_PATH}}/images/123.png)
+![图片](/images/123.png)
 
 ### 安装win8.1
 分完区后，安装win8.1就很简单了，[安装u盘](http://bbs.pcbeta.com/viewthread-1448054-1-1.html)全傻瓜式安装。
