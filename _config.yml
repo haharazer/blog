@@ -67,7 +67,7 @@ theme: freemind
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type: github
+  type: git
   repo: git@github.com:haharazer/haharazer.github.io.git
   branch: master
 
