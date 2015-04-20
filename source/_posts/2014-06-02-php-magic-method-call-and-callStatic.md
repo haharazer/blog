@@ -4,7 +4,9 @@ tags:
  - php 
  - magic-mathod
 categories: 
- - 技术 
+ - php
+
+toc: true
 ---
 
 php5.3.0中新增了两个魔术方法:**__call()**和**__callStatic()**

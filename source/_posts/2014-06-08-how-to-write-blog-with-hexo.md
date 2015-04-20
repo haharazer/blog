@@ -5,7 +5,9 @@ tags:
 - 静态博客 
 - github
 category: 
-- 瞎折腾
+- hexo
+
+toc: true
 ---
 
 前几天网上乱逛发现树莓派系统Pidora 2014发布了，于是就想折腾一下换个系统玩玩。

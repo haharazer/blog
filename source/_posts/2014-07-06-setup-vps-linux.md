@@ -5,6 +5,7 @@ tags:
 - linux
 categories:
 - 系统
+toc: true
 ---
 
 linode的vps买了有段时间了，可一直没抽出空来搞，最近被长城搞得各种上不去，各种烦，所以趁mac装系统的时候装了下机，顺便安了个shadowsocks，配合goagentX各种好用。
